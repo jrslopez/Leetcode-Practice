@@ -34,3 +34,4 @@ while (i <= haystack.length && pointer < needle.length) {
 console.log(occurrence)
 
 //need KMP algorithm??
+//search more info pls
